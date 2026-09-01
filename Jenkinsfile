@@ -3,6 +3,7 @@ agent any
 
 environment {
     IMAGE_NAME = "shashi29shetty/sep-1"
+}
 
 stages {
 
